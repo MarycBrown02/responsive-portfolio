@@ -1,0 +1,63 @@
+nav
+{
+    float: right;
+}
+header
+{
+    border-style:solid;
+    
+    background-color: #ffffff; 
+    border-color: #cccccc;
+}
+
+body
+{
+    background-color: #ffffff;
+}
+
+.kirby
+{
+   border-color: #4aaaa5;
+   background-color:  #4aaaa5;
+}
+
+
+
+@media screen and (max-width: 980px) {
+    
+    body {
+      
+    }
+  
+   
+    .wrapper {
+        width: 600px;
+        padding: 50px;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    
+    body {
+      
+    }
+  
+   
+    .wrapper {
+        width: 600px;
+        padding: 50px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    
+    body {
+      
+    }
+  
+   
+    .wrapper {
+        width: 600px;
+        padding: 50px;
+    }
+  }
